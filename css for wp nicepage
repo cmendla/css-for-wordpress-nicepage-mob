@@ -1,0 +1,28 @@
+.wp-block-image img
+{
+height: auto;	
+}
+.webpexpress-processed img
+{
+height: auto;
+}
+
+pre.wp-block-code {
+	margin-left: 8%;
+  margin-right: 10%;
+}
+
+pre.wp-block-preformatted {
+	margin-left: 8%;
+  margin-right: 10%;
+}
+
+h2:not(.u-subtitle) {
+	margin-left 20px;
+	margin-right 20px;
+}
+
+p:not(.u-text-variant) {
+	margin-left 20px;
+	margin-right 20px;
+}
