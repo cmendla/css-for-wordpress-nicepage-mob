@@ -1,3 +1,37 @@
+// 10 8 2020
+
+.wp-block-image img
+{
+height: auto;	
+}
+.webpexpress-processed img
+{
+height: auto;
+}
+
+pre.wp-block-code {
+	margin-left: 8% !important;
+  margin-right: 10% !important;
+}
+
+pre.wp-block-preformatted {
+	margin-left: 8% !important;
+  margin-right: 10% !important;
+}
+
+.u-body h1, .u-body h2, .u-body h3, .u-body h4, .u-body h5, .u-body h6 {
+    margin-left: 30px!important;
+    margin-right: 20px !important;
+}
+
+p:not(.u-text-variant) {
+	  margin-left: 30px;
+    margin-right: 20px !important;
+}
+
+//----------------------------
+
+
 #10/6/20
 .wp-block-image img
 {
